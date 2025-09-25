@@ -18,7 +18,7 @@ I continuously strive to enhance my technical skills and apply practical, strate
 
 ### 🚀 Projetos em Destaque | Featured Projects
 
-- 🎮 [Jogo Mario](https://github.com/Lucas1308233/Jogo-Mario)  
+- 🎮 [Jogo Mario](https://lucas1308233.github.io/Mario-Game/)  
   *Meu primeiro jogo desenvolvido com HTML, CSS e JavaScript.*
 
 - 📂 [Lucas-da-Silva-Prestes](https://github.com/Lucas1308233/Lucas-da-Silva-Prestes)  
