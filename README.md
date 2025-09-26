@@ -21,6 +21,7 @@ I continuously strive to enhance my technical skills and apply practical, strate
 
 - 🕹️ **Jogo Mario**
   https://lucas1308233.github.io/Mario-Game
+
   Meu primeiro jogo desenvolvido com **HTML, CSS e JavaScript**.  
    
 - 📂 **Lucas-da-Silva-Prestes**  
