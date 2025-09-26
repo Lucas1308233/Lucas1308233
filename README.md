@@ -50,7 +50,8 @@ Abaixo estão algumas das tecnologias e ferramentas com as quais trabalho:
 
 ## 📊 Estatísticas do GitHub | GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=Lucas1308233&show_icons=true&theme=dark
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucas1308233&show_icons=true&theme=dark)
+
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1308233&layout=compact&theme=radical)
