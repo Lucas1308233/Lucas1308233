@@ -6,13 +6,12 @@ Seja bem-vindo(a) ao meu perfil profissional! | Welcome to my professional profi
 
 ## 📌 Sobre mim | About Me
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Web Full Stack.  
-Busco constantemente aprimorar minhas habilidades técnicas e aplicar soluções práticas e estratégicas em projetos desafiadores na área de Tecnologia da Informação.  
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Back-End e Web Full Stack. Gosto de aprender na prática e estou sempre evoluindo minhas habilidades técnicas, construindo projetos que resolvem problemas reais e fortalecem minha base em desenvolvimento de sistemas.
 
-I am a Systems Analysis and Development student, focused on Full Stack Web Development.  
-I continuously strive to enhance my technical skills and apply practical, strategic solutions in challenging IT projects.
+I’m a Systems Analysis and Development student focused on Back-End and Full Stack Web Development. I enjoy learning by building real projects and continuously improving my technical skills through practical challenges.
 
-- 🎯 Atualmente em busca de oportunidades para contribuir e crescer na área de tecnologia.  
+🎯 Atualmente em busca de oportunidades para crescer e contribuir na área de tecnologia, especialmente com desenvolvimento back-end
+🎯 Currently looking for opportunities to grow and contribute in tech, especially in back-end development
 - 🔗 Conecte-se comigo via LinkedIn: [linkedin.com/in/lucas-da-silva-prestes-b4108b350](https://linkedin.com/in/lucas-da-silva-prestes-b4108b350)  
 
 ---
@@ -21,8 +20,8 @@ I continuously strive to enhance my technical skills and apply practical, strate
 
 - 🕹️ **Jogo Mario**
   https://lucas1308233.github.io/Mario-Game
-
-  Meu primeiro jogo desenvolvido com **HTML, CSS e JavaScript**.  
+Meu primeiro jogo desenvolvido com HTML, CSS e JavaScript, focado em lógica de programação e interatividade.
+My first game built using HTML, CSS and JavaScript, focused on programming logic and interactivity.**.  
    
 - 📂 **Lucas-da-Silva-Prestes**  
   Repositório de estudos e projetos diversos, incluindo **scripts Python**, **Web Front-End** e exercícios de **algoritmos**.  
