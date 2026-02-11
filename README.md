@@ -3,7 +3,9 @@
 Seja bem-vindo(a) ao meu perfil profissional! | Welcome to my professional profile.
 
 ---
-
+💻 Desenvolvedor em formação com foco em Back-End e Web Development.  
+🎯 Buscando oportunidade de estágio para aplicar e evoluir minhas habilidades técnicas.  
+🚀 Apaixonado por construir soluções práticas e funcionais.
 ## 📌 Sobre mim | About Me
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Back-End e Web Full Stack. Gosto de aprender na prática e estou sempre evoluindo minhas habilidades técnicas, construindo projetos que resolvem problemas reais e fortalecem minha base em desenvolvimento de sistemas.
