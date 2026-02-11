@@ -59,8 +59,9 @@ Meu primeiro jogo desenvolvido com HTML, CSS e JavaScript, focado em:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucas1308233&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1308233&layout=compact&theme=dark)
+![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucas1308233&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1308233&layout=compact&theme=tokyonight)
 
 ---
 
